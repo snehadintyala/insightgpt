@@ -28,29 +28,18 @@ Install dependencies:
 pip install -r requirements.txt
 Create your .env file:
 OPENAI_API_KEY=your_openai_key_here
+
 Run the app:
 streamlit run app.py
+
 🌐 Deploy on Streamlit Cloud
 Push this folder to a public GitHub repository
-
 Go to streamlit.io/cloud
-
 Connect your GitHub account
-
 Deploy the repo and enter your OpenAI API key in Streamlit's Secrets Manager
 
 ✅ Example Prompts
 “Show average discount per region as a bar chart”
-
 “Top 5 customers by total profit”
-
 “Explain which segment performs best overall”
-
 “Create a pie chart of sales by category”
-
-💡 Why Use This?
-Showcase your GPT + Data Viz + Python skills
-
-Smart assistant UI for data storytelling
-
-Works with any tabular CSV dataset
