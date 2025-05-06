@@ -22,7 +22,7 @@ insightgpt/
 
 🔧 How to Run Locally
 Clone the repo:
-git clone https://github.com/yourusername/insightgpt.git
+git clone https://github.com/snehadintyala/insightgpt.git
 cd insightgpt
 Install dependencies:
 pip install -r requirements.txt
